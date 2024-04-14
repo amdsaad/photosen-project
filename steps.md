@@ -7,3 +7,8 @@ https://cdnjs.com/libraries/font-awesome
 4- global setting with \* and other elements
 5- adding css style for header and header #nav
 6- adding var to the :root
+
+<!-- start here -->
+
+7- add and explain media query to header #nav
+8- mobile first style for responsive web design
