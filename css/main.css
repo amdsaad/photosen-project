@@ -90,6 +90,9 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
+  @media screen and (min-width: 768px) {
+    justify-content: space-between;
+  }
 }
 img {
   position: relative;
@@ -108,7 +111,7 @@ img {
   overflow: hidden;
 
   @media screen and (min-width: 768px) {
-    width: calc(33.333% - 1rem);
+    width: calc(33.333% - 0.7rem);
   }
 }
 .card::after {
@@ -152,9 +155,13 @@ img {
   font-weight: 400;
   lighting-color: 17px;
   letter-spacing: 1px;
+  transition: background-color 0.5s, color 0.5s;
 }
-
-.card img:hover {
+.card-content button:hover {
+  background-color: white;
+  color: black;
+}
+.card:hover img {
   filter: grayscale(0);
   /* uncomment  pointer-events: none; for card-content so hover will work*/
   transform: scale(1.02);
