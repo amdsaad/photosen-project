@@ -11,6 +11,12 @@ https://cdnjs.com/libraries/font-awesome
 7- add and explain media query to header #nav
 8- mobile first style for responsive web design
 
+9- create other pages and update nav links with the correct page ( adding .html)
+
 <!-- start here -->
 
-9- create other pages and update nav links with the correct page ( adding .html)
+10- create main > section and add container-fluid gallery classess
+11- add ul and li with card calss
+12- stracture the card elemnts
+13- add images folder and add 9 images
+14- update the css
