@@ -89,7 +89,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem;
+  gap: 2rem;
   @media screen and (min-width: 768px) {
     justify-content: space-between;
   }
@@ -111,7 +111,7 @@ img {
   overflow: hidden;
 
   @media screen and (min-width: 768px) {
-    width: calc(33.333% - 0.7rem);
+    width: calc(33.333% - 1.4rem);
   }
 }
 .card::after {
