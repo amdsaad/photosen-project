@@ -13,10 +13,13 @@ https://cdnjs.com/libraries/font-awesome
 
 9- create other pages and update nav links with the correct page ( adding .html)
 
-<!-- start here -->
-
 10- create main > section and add container-fluid gallery classess
 11- add ul and li with card calss
 12- stracture the card elemnts
 13- add images folder and add 9 images
 14- update the css
+
+<!-- start here -->
+
+15- add footer and style css
+16 - copy to all pages
