@@ -13,4 +13,4 @@ https://cdnjs.com/libraries/font-awesome
 
 <!-- start here -->
 
-9- create other pages
+9- create other pages and update nav links with the correct page ( adding .html)
